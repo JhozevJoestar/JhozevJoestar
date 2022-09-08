@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align="center"><b>Занимаюсь разработкой клиентской части сайтов.</b></div>
 
-<!--
-**JhozevJoestar/JhozevJoestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+**Мой Стек:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MongoDB
+- ExpressJS 
+- React
+- NodeJS
+- HTML5, CSS3, JavaScript ES6
+- Redux, Redux Toolkit
+- React router dom v6
+- DOM
+- Webpack
+- Mongoose
+- Cors
+- Axios
+ 
+ <br />
+ 
+## Участвие в проектах:
+### Сеть отелей: 
+> [Front](https://github.com/JhozevJoestar/TuramisumoFrontend)
+<br />
+
+> [Back](https://github.com/JhozevJoestar/Turamisumo)
+ 
+### Магазин классической одежды: 
+> [Front](https://github.com/JhozevJoestar/StrimFrontend)
+<br />
+
+> [Back](https://github.com/JhozevJoestar/StrimBackend)
+## Связь со мной: 
+
+<div>Telegram - https://t.me/jhozev</div>
+<div>Email - dadashevrabek123@mail.ru</div>
+<div>Phone - +7(928)-952-29-65</div>
